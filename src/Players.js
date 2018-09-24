@@ -47,7 +47,7 @@ export const Players = [
         position: 'C'
     },
     {
-        id: 8478874,
+        id: 'skater',
         name: 'Adam Gaudette',
         position: 'C'
     },
@@ -72,11 +72,6 @@ export const Players = [
         position: 'C'
     },
     {
-        id: 8478895,
-        name: 'Lukas Jasek',
-        position: 'RW'
-    },
-    {
         id: 8478528,
         name: 'Tanner Kero',
         position: 'C'
@@ -85,11 +80,6 @@ export const Players = [
         id: 8476894,
         name: 'Brendan Leipsic',
         position: 'LW'
-    },
-    {
-        id: 8479986,
-        name: 'Kole Lind',
-        position: 'RW'
     },
     {
         id: 8479772,
@@ -102,12 +92,7 @@ export const Players = [
         position: 'C'
     },
     {
-        id: 8479610,
-        name: 'Petrus Palmu',
-        position: 'RW'
-    },
-    {
-        id: 8480012,
+        id: 'skater',
         name: 'Elias Pettersson',
         position: 'C'
     },
