@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import CardList from './CardList';
+import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 import 'tachyons';
-import { Players } from './Players';
+import './App.css';
 
-ReactDOM.render( <CardList Players={Players}/>, document.getElementById('root'));
+ReactDOM.render( <App />, document.getElementById('root'));
 registerServiceWorker();
